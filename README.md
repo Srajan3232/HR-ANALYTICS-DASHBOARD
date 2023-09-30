@@ -3,5 +3,5 @@ In this project I have downloaded the dataset from the kaggle after that I have 
 
 Calculated attrition rate as the percentage of employees leaving the company.
 Created visualizations to show job satisfaction levels of the employees by using heatmap.
-Craeted visualization to show the total number of employees by their age group.
+Created visualization to show the total number of employees by their age group.
 Calculate the total no of employees,attrition count and also show the department wise attrition in the company.
